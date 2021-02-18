@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+i have very _stale_ taste in clothing
+i have a very _divolved_ sense in humor
+i don't like anything to do with __politics__
